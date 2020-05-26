@@ -8,8 +8,15 @@ theme = "yinyang"
   mainSections = ["projects", "posts"]
 
 [[params.socials]]
-  name = "About Me"
-  link = "https://buoydontfloat.com"
+  name = "About"
+  link = "/about"
+[[params.socials]]
+  name = "Instagram"
+  link = "https://instagram.com/epylinkn"
 [[params.socials]]
   name = "Twitter"
   link = "https://twitter.com/buoydontfloat"
+
+[permalinks]
+  projects = "/:slug"
+  pages = "/:slug"
