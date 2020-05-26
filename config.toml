@@ -1,3 +1,15 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "yinyang"
+
+[params]
+  headTitle = "joyrats/anthony"
+  mainSections = ["posts"]
+
+[[params.socials]]
+  name = "About Me"
+  link = "https://buoydontfloat.com"
+[[params.socials]]
+  name = "Twitter"
+  link = "https://twitter.com/buoydontfloat"
