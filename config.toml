@@ -5,7 +5,7 @@ theme = "yinyang"
 
 [params]
   headTitle = "joyrats/anthony"
-  mainSections = ["posts"]
+  mainSections = ["projects", "posts"]
 
 [[params.socials]]
   name = "About Me"
