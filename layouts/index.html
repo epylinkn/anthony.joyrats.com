@@ -25,6 +25,11 @@
                       @ {{ .Params.location }}
                     {{ end }}
                   </div>
+                  <div class="col-xs-9 col-sm-10">
+                    {{ if .Params.exhibition }}
+                      {{ .Params.exhibition }}
+                    {{ end }}
+                  </div>
                   <div class="col-xs-3 col-sm-2 posts-categories">
                     {{ range .Params.categories }}
                     <div class="posts-category">

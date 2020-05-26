@@ -1,7 +1,7 @@
 ---
 title: "Cloud Bathroom"
-location: Luxury Escapism: VR Spa, Brooklyn, NY
-date: 2019-07-26T16:24:29-07:00
+location: "Brooklyn, NY"
+exhibition: "Luxury Escapism: VR Spa"
+date: 2019-07-26
 slug: cloud-bathroom
 ---
-
