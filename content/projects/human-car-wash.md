@@ -7,3 +7,5 @@ slug: human-car-wash
 ---
 
 Shaddow traffic
+
+{{< vimeo 371313584 >}}
