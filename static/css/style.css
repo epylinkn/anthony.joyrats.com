@@ -1,0 +1,13 @@
+/*** THEME OVERRIDES ***/
+.post-header {
+  margin-bottom: 0 !important;
+}
+
+.post-title {
+  text-align: center;
+}
+
+a:hover {
+  font-weight: 400 !important;
+  text-decoration: underline;
+}

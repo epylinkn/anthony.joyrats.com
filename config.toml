@@ -5,6 +5,7 @@ theme = "yinyang"
 
 [params]
   headTitle = "joyrats/anthony"
+  favicon = "favicon.ico"
   mainSections = ["projects", "posts"]
 
 [[params.socials]]
