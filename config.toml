@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://anthony.joyrats.com"
 languageCode = "en-us"
 title = "Anthony | JOYRATS"
 theme = "yinyang"
 
 [params]
-  headTitle = "joyrats/anthony"
+  headTitle = "JOYRATS/anthony"
   favicon = "favicon.ico"
   mainSections = ["projects", "posts"]
 
