@@ -1,7 +1,8 @@
 ---
 title: Oracle in the Shell
-date: 2018-08-15
+date: 2019-02-15
 slug: oracle-in-the-shell
+draft: true
 ---
 
 {{< vimeo 320590735 >}}

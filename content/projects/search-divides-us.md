@@ -1,6 +1,6 @@
 ---
 title: Search Divides Us
-location: Queens, NY
+location: Queens, New York
 exhibition: Maker Faire
 date: 2018-08-15
 slug: search-divides-us

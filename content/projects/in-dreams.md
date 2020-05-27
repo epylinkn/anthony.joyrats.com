@@ -1,6 +1,6 @@
 ---
 title: "IN DREAMS"
-location: Brooklyn, NY
+location: Brooklyn, New York
 exhibition: Live Performance at The Paper Box
 date: 2018-12-15
 slug: in-dreams

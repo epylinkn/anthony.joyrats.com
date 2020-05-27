@@ -1,7 +1,7 @@
 ---
-title: "PORTAL"
-location: Bombay Beach, CA
-date: 2020-02-15
+title: PORTAL
+location: Bombay Beach, California
+date: 2020-03-15
 slug: portal
 ---
 
